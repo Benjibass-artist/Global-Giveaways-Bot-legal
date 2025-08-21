@@ -1,0 +1,65 @@
+Effective Date: August 21, 2025
+Controller/Operator: Benjamin Basarab (USA)
+Contact: [misterbenstudio@gmail.com]
+
+1) What we collect (minimal necessary)
+
+Server configuration data: server (guild) ID and name, channel IDs, Bot settings (sources, filters, refresh intervals, roles to ping).
+
+Operational logs: timestamps, error/rate-limit logs, basic diagnostics (no message content beyond what’s required to post/update Bot embeds).
+
+Entitlements/billing (if premium is enabled): purchase status/plan via Discord. We do not store your full payment details—Discord processes payments.
+
+We do not intentionally collect or store direct messages. The Bot operates primarily via application commands, webhooks, and embeds.
+
+2) How we use data
+
+Provide and improve the Bot (post, update, and expire giveaway messages).
+
+Prevent abuse/duplicates and diagnose issues.
+
+Verify premium entitlements (if applicable).
+
+Comply with law and platform policies.
+
+3) Legal bases (where applicable)
+We process data as necessary to perform the service you request (contract) and for our legitimate interests in keeping the Bot secure and functional. Where consent is required by local law, we will request it in-app.
+
+4) Sharing
+
+Infrastructure processors we use to host, store configs, and logs (e.g., hosting/database/logging providers).
+
+Discord (the Bot interacts with Discord’s APIs; your Discord use is governed by Discord’s policies).
+
+Legal/rights protection when required by law or to protect our rights, users, or the public.
+We do not sell personal information.
+
+5) Retention
+
+Server configuration persists while the Bot remains in your server.
+
+Logs are kept for [e.g., 14–30 days] unless needed to investigate abuse/security issues.
+We delete or anonymize data when no longer needed.
+
+6) Your choices & rights
+
+Remove the Bot from your server to stop data collection.
+
+Deletion/Access: Email us with your server ID and request deletion or a copy of stored configuration/logs; we’ll complete requests within [e.g., 30 days], unless we must retain data for security/legal reasons.
+
+California/US state privacy: If you are a resident of a US state with privacy rights (e.g., CA), you can request access or deletion as above. We do not sell or “share” personal information as defined by CA law.
+
+7) Security
+We use reasonable technical and organizational measures (scoped tokens, least-privilege access, encrypted storage where applicable). No method is perfectly secure.
+
+8) Children
+The Bot is for general audiences and should only be used by individuals who meet Discord’s minimum age requirements. If you believe a minor’s data was collected improperly, contact us to request deletion.
+
+9) International transfers
+Data may be processed in the United States and other locations where our providers operate. We rely on appropriate safeguards where required.
+
+10) Changes
+We may update this Policy; the “Effective Date” shows the latest version. Continued use after changes means you accept the updated Policy.
+
+11) Contact
+Questions or requests: [YOUR EMAIL HERE].
