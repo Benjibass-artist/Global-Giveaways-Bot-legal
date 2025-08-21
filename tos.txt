@@ -1,0 +1,44 @@
+Effective Date: August 21, 2025
+Operator: Benjamin Basarab (USA)
+Contact: [misterbenstudio@gmail.com]
+
+1) What this bot does
+Global Giveaways Bot (the “Bot”) aggregates and posts links to third-party giveaways (e.g., Gleam and similar sites) into Discord channels you configure. We are not affiliated with any giveaway host or sponsor, and we do not control eligibility, rules, odds, fulfillment, or outcomes. Links are provided for convenience only.
+
+2) Using the Bot
+
+You must comply with Discord’s Terms and policies and be old enough to use Discord in your region.
+
+You must have permission to add and configure apps in any server where you use the Bot.
+
+The Bot may read minimal metadata (e.g., server/channel IDs) required to operate; see the Privacy Policy for details.
+
+3) No guarantees
+The Bot is provided “as is.” We do not guarantee uptime, accuracy, or availability of any third-party giveaway. We may change, suspend, or discontinue features at any time (including to respect third-party terms, rate limits, or to prevent abuse).
+
+4) Acceptable use
+Do not use the Bot to spam, mislead users, conduct scams, violate giveaway rules, or break any law. We may restrict or remove the Bot from servers that violate this section.
+
+5) Premium features & billing (if enabled)
+Premium features, if offered, are sold inside Discord via Discord’s native purchasing (“Premium Apps”). Prices shown in Discord apply; taxes may be added. Access to premium features may end if payment fails or is refunded/charged back. Refunds (if any) follow Discord’s policies. We do not accept “donations” in exchange for feature unlocks outside Discord.
+
+6) Intellectual property
+We retain all rights to the Bot’s code, branding, and documentation. You receive a limited, revocable license to run the Bot in your server(s) per these Terms.
+
+7) Third-party services
+The Bot links to external websites. Those sites are governed by their own terms and privacy policies. We are not responsible for their content or actions.
+
+8) Termination
+You can remove the Bot at any time. We may disable the Bot in your server(s) for violations or operational/security reasons.
+
+9) Disclaimers & liability
+To the fullest extent permitted by law, we disclaim all warranties (express/implied). Our total liability for any claim related to the Bot will not exceed US $50 or the fees you paid for the Bot in the 3 months before the claim, whichever is greater. Some jurisdictions do not allow certain limitations; in that case, the limitation applies to the maximum extent permitted.
+
+10) Indemnity
+You agree to indemnify and hold us harmless from claims arising from your misuse of the Bot or violation of these Terms.
+
+11) Changes
+We may update these Terms; the “Effective Date” will reflect the latest version. Continued use after changes means you accept the revised Terms.
+
+12) Governing law
+These Terms are governed by the laws of the United States and the laws of [YOUR STATE], without regard to conflict-of-law rules. Courts located in [YOUR STATE] will have exclusive jurisdiction.
